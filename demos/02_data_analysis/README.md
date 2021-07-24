@@ -7,7 +7,7 @@ two read structured data
 
 I used those two libraries to read a csv file and visualize its contents.
 
-## Links:
+## Additional Links:
 
 - A more detailed guide on getting started with data analysis with FsLab: https://fslab.org/content/tutorials/4_getting-started.html
 - FsLab endorsed packages: https://fslab.org/packages.html

@@ -4,7 +4,7 @@ To see it in action, restore local tools via `dotnet tool restore` and run `dotn
 
 The example docs contained in docs are the output of the fslab documentation template.
 
-## Links:
+## Additional Links:
 
 - FSharp.Formatting: 
   - [repo](https://github.com/fsprojects/FSharp.Formatting)
