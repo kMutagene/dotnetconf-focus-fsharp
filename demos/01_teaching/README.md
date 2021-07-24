@@ -2,6 +2,8 @@ In this demo, i briefly introduced fsdocs, the dotnet cli tool for FSharp.Format
 
 To see it in action, restore local tools via `dotnet tool restore` and run `dotnet fsdocs watch --eval` in this folder.
 
+The example docs contained in docs are the output of the fslab documentation template.
+
 ## Links:
 
 - FSharp.Formatting: 
