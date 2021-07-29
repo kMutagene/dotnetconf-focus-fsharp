@@ -10,5 +10,3 @@ let myChart =
 (***hide***)
 myChart |> GenericChart.toChartHTML
 (***include-it-raw***)
-
-// notebook example: https://csbiology.github.io/BIO-BTE-12-V-4/tasks/english/wpb-task-01.html
